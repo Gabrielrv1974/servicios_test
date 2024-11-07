@@ -1,0 +1,1 @@
+Según estos cambios, si introduzco la linea de comando git blame, podré ver quien ha sido el autor de la modificacion.
